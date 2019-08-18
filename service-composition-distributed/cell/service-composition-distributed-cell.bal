@@ -58,9 +58,9 @@ public function build(cellery:ImageName iName) returns error? {
         },
         dependencies: {
             cells: {
-                airline: <cellery:ImageName>{ org: "chanakaudaya", name: "airline-cell", ver: "v64" },
-                hotel: <cellery:ImageName>{ org: "chanakaudaya", name: "hotel-cell", ver: "v64" },
-                rental: <cellery:ImageName>{ org: "chanakaudaya", name: "rental-cell", ver: "v64" }
+                airline: <cellery:ImageName>{ org: "chanakaudaya", name: "airline-cell", ver: "v63" },
+                hotel: <cellery:ImageName>{ org: "chanakaudaya", name: "hotel-cell", ver: "v63" },
+                rental: <cellery:ImageName>{ org: "chanakaudaya", name: "rental-cell", ver: "v63" }
             }
         }
     };
