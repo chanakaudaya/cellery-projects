@@ -1,0 +1,10 @@
+
+# General
+.DS_Store
+
+# Folders
+target
+docker
+
+# Ballerina builds
+*.balx
