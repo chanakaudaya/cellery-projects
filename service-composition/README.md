@@ -10,7 +10,7 @@
 
 **cellery run chanakaudaya/service-composition-cell:v5.0 -n service-composition-cell-v50** 
 
-3) Go to API Store and subscribe to the API with the name "service-composition-cell-v50" and generate an access token. Once the token is generated, execute the below command with the token.
+3) Go to [API Store](https://wso2-apim/store/) and subscribe to the API with the name "service-composition-cell-v50" and generate an access token. Once the token is generated, execute the below command with the token.
 
 **curl -v -X POST -d '{"Name":"Bob", "ArrivalDate":"12-03-2018",
    "DepartureDate":"13-04-2018", "Preference":{"Airline":"Business", 

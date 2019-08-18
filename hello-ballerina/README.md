@@ -18,7 +18,7 @@
 
 **cellery run chanakaudaya/hello-ballerina-cell:v6.0 -n hello-ballerina-cell-v60** 
 
-5) Go to API Store and subscribe to the API with the name "hello-ballerina-cell-v60" and generate an access token. Once the token is generated, execute the below command with the token.
+5) Go to [API Store](https://wso2-apim/store/) and subscribe to the API with the name "hello-ballerina-cell-v60" and generate an access token. Once the token is generated, execute the below command with the token.
 
 **curl -H "Authorization: Bearer f9c43e34-c116-3367-b286-ef59a97b1f6c" https://wso2-apim-gateway/hello-ballerina-cell-v60/hello/ -k** 
 
