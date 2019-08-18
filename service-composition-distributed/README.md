@@ -1,5 +1,7 @@
 ### Building a cell with service composition cell in distributed mode
 
+![Service_Composition_Distributed](resources/service-composition-distributed-cell.png)
+
 1) Go to **/cell** folder and build the cells with the below command
 
 **sh build.sh** 

@@ -1,5 +1,7 @@
 ### Building a cell with hello world ballerina program
 
+![Hello_Ballerina_Cell](resources/hello-ballerina-cell.png)
+
 1) Go to /src folder and execute the below command
 
 **ballerina build hello_service.bal** 

@@ -1,5 +1,7 @@
 ### Building a cell with service composition cell
 
+![Service_Composition_One_Cell](resources/service-composition-one-cell.png)
+
 1) Go to **/cell/all-in-one** folder and build the cell with the below command
 
 **cellery build service-composition-cell.bal chanakaudaya/service-composition-cell:v5.0** 
